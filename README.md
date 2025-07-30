@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/konesham2014/konesham2014/blob/main/background.jpg" title="hover text">
+</p>
+
 ## Hi there 👋
 
 [![Linkedin: Senait Mekonen Gebreegziabher](https://img.shields.io/badge/-Senait-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/senait-mekonen-gebreegziabher/)](https://www.linkedin.com/in/senait-mekonen-gebreegziabher/)
